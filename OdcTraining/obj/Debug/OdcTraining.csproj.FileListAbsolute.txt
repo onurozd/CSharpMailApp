@@ -1,0 +1,9 @@
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\bin\Debug\OdcTraining.exe.config
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\bin\Debug\OdcTraining.exe
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\bin\Debug\OdcTraining.pdb
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.csprojResolveAssemblyReference.cache
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.Form1.resources
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.Properties.Resources.resources
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.csproj.GenerateResource.Cache
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.exe
+c:\users\golgi\documents\visual studio 2015\Projects\OdcTraining\OdcTraining\obj\Debug\OdcTraining.pdb
